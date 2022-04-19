@@ -1,0 +1,15 @@
+C:\Abstraindo um jogo de RPG\bin\Debug\net6.0\Abstraindo um jogo de RPG.exe
+C:\Abstraindo um jogo de RPG\bin\Debug\net6.0\Abstraindo um jogo de RPG.deps.json
+C:\Abstraindo um jogo de RPG\bin\Debug\net6.0\Abstraindo um jogo de RPG.runtimeconfig.json
+C:\Abstraindo um jogo de RPG\bin\Debug\net6.0\Abstraindo um jogo de RPG.dll
+C:\Abstraindo um jogo de RPG\bin\Debug\net6.0\ref\Abstraindo um jogo de RPG.dll
+C:\Abstraindo um jogo de RPG\bin\Debug\net6.0\Abstraindo um jogo de RPG.pdb
+C:\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.csproj.AssemblyReference.cache
+C:\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.AssemblyInfoInputs.cache
+C:\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.AssemblyInfo.cs
+C:\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.csproj.CoreCompileInputs.cache
+C:\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.dll
+C:\Abstraindo um jogo de RPG\obj\Debug\net6.0\ref\Abstraindo um jogo de RPG.dll
+C:\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.pdb
+C:\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.genruntimeconfig.cache
